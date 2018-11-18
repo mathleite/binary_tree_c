@@ -30,7 +30,7 @@ struct No* AdicionarNoComRecursividade(struct No *Raiz, int Id)
     return Raiz;
 }
 
-// Retorna apenas o endereço do nó localizado
+// Retorna apenas o endereÃ§o do nÃ³ localizado
 struct No* BuscarNoComRecursividade(struct No *Raiz, int Id)
 {
     if (Raiz == (struct No*) NULL)
